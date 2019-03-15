@@ -1,0 +1,5 @@
+server:
+    port: 8101
+    servlet:
+        context-path: "/hello/happy"
+        # 默认访问路径 不生效 ！！！
